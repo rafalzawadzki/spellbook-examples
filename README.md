@@ -1,3 +1,10 @@
+# ℹ️ Forked and modified from [LangChainHub](https://github.com/hwchase17/langchain-hub)
+This repository repurposes LangChainHub prompts to use in https://github.com/rafalzawadzki/spellbook-forge.
+
+After this disclaimer, the original README.md continues.
+
+------------------------------------------------------------------------------------------------------------------------
+
 # Prompts
 
 This directory covers loading and uploading of prompts. 
